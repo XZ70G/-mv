@@ -1,0 +1,15 @@
+{
+  "name": "love-certificate-pixel-mv",
+  "version": "1.0.0",
+  "description": "孙燕姿《爱情证书》纯代码 16-bit 暖色系掌机恋爱养成风横屏像素 MV 渲染引擎",
+  "main": "src/render.js",
+  "scripts": {
+    "render": "node src/render.js",
+    "preview": "node src/render.js --preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XZ70G/-mv.git"
+  },
+  "license": "MIT"
+}
